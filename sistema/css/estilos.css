@@ -1,0 +1,66 @@
+
+body{
+    background-color: rgb(255, 255, 255);
+}
+header{
+    background-color: rgb(32, 26, 88);
+    color: rgb(255, 255, 255);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+article{
+    background-color:#2b2929;
+    color: white;   
+}
+
+aside{
+    background-color: #2b2929;
+    color: white;
+}
+
+.logotipo img{
+    width: 100%;
+    object-fit: cover;
+    display: flex;
+    flex-direction: column;
+}
+
+.navegacion nav ul li{
+    list-style: none;
+}
+
+.navegacion nav ul li a{
+    color: white;
+    font-size: 1.3em;
+}
+
+.Encabezado{
+    font-size: 2em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1{
+    font-size: 2.4em;
+}
+
+div.row{
+    padding-right: 0px;
+    padding-left: 0px;
+} 
+
+div.container{
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.centertable{
+    text-align:center;
+}
+
+.centertable table{
+    margin: 0 auto;
+    text-align:left;
+    border-collapse: separate;
+    border-spacing: 15px 5px;
+}
+
